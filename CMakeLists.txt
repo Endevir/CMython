@@ -19,6 +19,7 @@ execute_process(
 )
 
 set(HEADER_FILES
+	${CMAKE_SOURCE_DIR}/A/index.h
 )
 
 set(SOURCE_FILES
